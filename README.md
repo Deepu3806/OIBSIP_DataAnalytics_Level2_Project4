@@ -57,3 +57,7 @@ User sentiment analysis (Positive, Negative, Neutral)
 ✅ Conclusion
 
 This project demonstrates how data analytics and visualization can be used to uncover valuable insights from large datasets. It highlights trends in the Android app ecosystem and strengthens practical skills in data cleaning, exploratory data analysis, and storytelling with data.
+
+👩‍💻 Author
+
+Deepika
